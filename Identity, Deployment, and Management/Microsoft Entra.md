@@ -52,7 +52,7 @@ Azure Active Directory (now Microsoft Entra ID)
 3. Payment 
 	1. If a subscription isn't paid, all the resources and services associated with the subscription stop. 
 
-![](Pasted%20image%2020250113162749.png)
+![](attachments/Pasted%20image%2020250114132322.png)
 ### Summary
 - Microsoft Entra is a product family that includes Azure Active Directory/Microsoft Entra ID
 - Active Directory (AD) ***Is not*** the same as Azure Active Directory. 

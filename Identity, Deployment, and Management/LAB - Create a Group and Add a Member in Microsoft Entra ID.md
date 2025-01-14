@@ -2,6 +2,7 @@
 - Sign into Entra ID (portal.azure.com)
 - Verified user was there 
 - Under "Groups" > Created new group
+
 ![](attachments/Pasted%20image%2020250114132409.png)
 - Added member to this group 
 ![](attachments/Pasted%20image%2020250114132423.png)

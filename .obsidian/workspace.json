@@ -11,10 +11,14 @@
             "id": "d258e8a016d62702",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Identity, Deployment, and Management/LAB - Create a Group and Add a Member in Microsoft Entra ID.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "LAB - Create a Group and Add a Member in Microsoft Entra ID"
             }
           }
         ]
@@ -165,5 +169,23 @@
     }
   },
   "active": "d258e8a016d62702",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Identity, Deployment, and Management/Microsoft Entra.md",
+    "Identity, Deployment, and Management/Zero Trust Concepts.md",
+    "Create a Group and Add a Member in Microsoft Entra ID.md",
+    "Images/Pasted image 20250114130329.png",
+    "Images/Pasted image 20241219100213.png",
+    "Images/Pasted image 20250114130624.png",
+    "Images/Pasted image 20250114130154.png",
+    "Images/Pasted image 20250113162749.png",
+    "Images/Pasted image 20241219100025.png",
+    "Images",
+    "Identity, Deployment, and Management/LAB - Create a Group and Add a Member in Microsoft Entra ID.md",
+    "Identity, Deployment, and Management/4. Defining Identity, Authentication, and Authorization.md",
+    "Identity, Deployment, and Management",
+    "Fundamentals/3. Cloud Benefits.md",
+    "Fundamentals/2. Cloud Service Types.md",
+    "Fundamentals/1. Foundational Cloud Concepts.md",
+    "Fundamentals"
+  ]
 }

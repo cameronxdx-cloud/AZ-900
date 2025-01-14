@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Identity, Deployment, and Management/LAB - Create a Group and Add a Member in Microsoft Entra ID.md",
+                "file": "Fundamentals/2. Cloud Service Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LAB - Create a Group and Add a Member in Microsoft Entra ID"
+              "title": "2. Cloud Service Types"
             }
           }
         ]
@@ -170,13 +170,16 @@
   },
   "active": "d258e8a016d62702",
   "lastOpenFiles": [
+    "Fundamentals/attachments/Pasted image 20250114132646.png",
+    "Fundamentals/attachments",
+    "Images/Pasted image 20241219100025.png",
+    "Fundamentals/2. Cloud Service Types.md",
+    "Identity, Deployment, and Management/LAB - Create a Group and Add a Member in Microsoft Entra ID.md",
     "Identity, Deployment, and Management/Microsoft Entra.md",
     "Identity, Deployment, and Management/Zero Trust Concepts.md",
     "Fundamentals/3. Cloud Benefits.md",
     "Fundamentals/1. Foundational Cloud Concepts.md",
-    "Fundamentals/2. Cloud Service Types.md",
     "Identity, Deployment, and Management/4. Defining Identity, Authentication, and Authorization.md",
-    "Identity, Deployment, and Management/LAB - Create a Group and Add a Member in Microsoft Entra ID.md",
     "Identity, Deployment, and Management/attachments/Pasted image 20250114132442.png",
     "Images/Pasted image 20250114130624.png",
     "Identity, Deployment, and Management/attachments/Pasted image 20250114132423.png",
@@ -185,7 +188,6 @@
     "Images/Pasted image 20250114130154.png",
     "Images/Pasted image 20250113162749.png",
     "Images/Pasted image 20241219100213.png",
-    "Images/Pasted image 20241219100025.png",
     "Identity, Deployment, and Management/attachments/Pasted image 20250114132322.png",
     "Identity, Deployment, and Management/attachments",
     "Create a Group and Add a Member in Microsoft Entra ID.md",
